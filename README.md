@@ -29,4 +29,6 @@
   <a href = "https://accounts.google.com/SignOutOptions?hl=pt-BR&continue=https://mail.google.com&service=mail"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-yumi-ishibashi-mendes-44a9a216a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Ban%2BjZwlOQa6Nxw%2FwwZsDQg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+     ![Snake animation](https://github.com/BYIMYumi/BYIMYumi/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
