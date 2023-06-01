@@ -15,7 +15,7 @@
   <img align="center" alt="BYIM-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BYIM-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BYIM-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="BYIMY-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/6d/5f/31/6d5f31e6e1fc2a142984e6b4f66b891a.png">
+  <img align="right" alt="BYIMY-pic" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/kawaii-yumimlbb-hUN25g2iIDt4d7ihGo">
 </div>
   
   ##
