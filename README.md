@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bianca Yumi
 - 👀 I’m interested in new oportunities
-- 🌱 I’m currently learning Santander Code Girls
+- 🌱 I’m currently learning with Dev em Dobro
 - 📫 How to reach me biancayumi2012@gmail.com
 
 <div align="center">
